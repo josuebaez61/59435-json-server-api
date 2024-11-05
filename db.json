@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "4d22",
+      "firstName": "Josue",
+      "lastName": "Baez",
+      "email": "jbaez@mail.com",
+      "password": "123456",
+      "role": "ADMIN",
+      "token": "ndsHSBnsdjkasJs354MSjsnmvcs332SJnxjS",
+      "createdAt": "2024-10-24T00:14:33.140Z"
+    },
+    {
+      "id": "Fr24",
+      "firstName": "Naruto",
+      "lastName": "Uzumaki",
+      "email": "naru@mail.com",
+      "createdAt": "2024-10-24T01:28:09.184Z",
+      "role": "USER",
+      "password": "LHxfNUFt",
+      "token": "FKejj6VrYmRw2EtEuecO"
+    }
+  ],
+  "products": [
+    {
+      "id": "avcE2",
+      "name": "PS5",
+      "price": 9999
+    }
+  ]
+}
